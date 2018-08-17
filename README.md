@@ -22,8 +22,9 @@ Replies handled differently | No | [Yes](https://help.micro.blog/2018/replies-an
 Able to export content | [Yes](https://github.com/tootsuite/documentation/blob/d695ea1f135e56b02264c3a918017079ce4a0f10/Using-Mastodon/FAQ.md#can-i-save-my-data) | [Yes](https://help.micro.blog/2018/replies-and-mentions/)
 Cross-posting to Twitter | No | [Yes, with a $2/month or $5/month subscription](https://help.micro.blog/faq/)
 Import Twitter friends | [Yes](https://bridge.joinmastodon.org) | No
-Official iOS or Android app | [No](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md) | [iOS only](https://help.micro.blog/2017/micropub-clients/)
-Official Mac or Windows app | [No](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md) | [No](https://help.micro.blog/2017/micropub-clients/)
+Official iOS or Android app | No | [iOS only](https://help.micro.blog/2017/micropub-clients/)
+Official Mac or Windows app | No | [Mac only](https://help.micro.blog/2017/mac-version/)
+Third-party clients | [Yes](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md) | [Yes](https://help.micro.blog/2017/micropub-clients/)
 Security | User name + password ([2FA is optional](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/2FA.md)) | [Email address only](https://micro.blog/DavidAnson/794416)
 
 > Deliberately omitted from above: User counts, open source status, federation details
