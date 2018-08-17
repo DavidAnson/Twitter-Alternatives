@@ -20,7 +20,7 @@ Privacy policy | Depends on the server | <https://help.micro.blog/2018/privacy-p
 Hashtags in posts | Yes | [No](https://help.micro.blog/2018/twitter-differences/)
 Replies handled differently | No | [Yes](https://help.micro.blog/2018/replies-and-mentions/)
 Able to export content | [Yes](https://github.com/tootsuite/documentation/blob/d695ea1f135e56b02264c3a918017079ce4a0f10/Using-Mastodon/FAQ.md#can-i-save-my-data) | [Yes](https://help.micro.blog/2018/replies-and-mentions/)
-Cross-posting to Twitter | No | [Yes, for $2 per month](https://help.micro.blog/2018/pricing/)
+Cross-posting to Twitter | No | [Yes, with a $2/month or $5/month subscription](https://help.micro.blog/faq/)
 Import Twitter friends | [Yes](https://bridge.joinmastodon.org) | No
 Official iOS app | [No](https://github.com/tootsuite/documentation/blob/50febfa523fd75bd55d98c9dd6161256816d874e/Using-Mastodon/Apps.md) | [Yes](https://itunes.apple.com/us/app/micro-blog/id1253201335?ls=1&mt=8)
 Official Android app | [No](https://github.com/tootsuite/documentation/blob/50febfa523fd75bd55d98c9dd6161256816d874e/Using-Mastodon/Apps.md) | [No](https://help.micro.blog/2017/micropub-clients/)
@@ -28,7 +28,9 @@ Security | User name + password ([2FA is optional](https://github.com/tootsuite/
 
 > Deliberately omitted from above: User counts, open source status, federation details
 
-I'm not part of either project, so there may be mistakes in the table above. That's why this is on GitHub - please [open an issue](https://github.com/DavidAnson/Twitter-Alternatives/issues) or [send a pull request](https://github.com/DavidAnson/Twitter-Alternatives/pulls) to correct any problems you find. If you are adding content, please do so for both platforms and link to your sources.
+I'm not part of either project, so there may be mistakes in the table above.
+That's why this is on GitHub - please [open an issue](https://github.com/DavidAnson/Twitter-Alternatives/issues) or [send a pull request](https://github.com/DavidAnson/Twitter-Alternatives/pulls) to correct any problems you find.
+If you are adding content, please do so for both platforms and link to your sources.
 
 For other questions or to start a discussion, contact me on:
 
